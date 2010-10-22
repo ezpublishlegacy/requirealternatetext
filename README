@@ -1,0 +1,1 @@
+adds some javascript to prevent form submission on an image upload if alt text is not filled in.
